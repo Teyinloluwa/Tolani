@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: purple;
+    color:white;
+    }
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 50px;
+    background-color: orchid;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+}
